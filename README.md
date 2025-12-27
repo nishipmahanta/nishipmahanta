@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Nishi Prantik Mahanta<br><br>🎓 Computer Science Engineering Graduate <br>💻 Python | Machine Learning | Data Analytics  <br><br>I enjoy solving real-world problems using data and building scalable, clean solutions.  <br>During my internship at Aqmenz Automation, I developed a Sales Prediction Model to analyze trends and support business decision-making.  <br>I am also working on an AI-based Interview System focused on intelligent automation.<br><br>🔧 Tech Stack:  <br>Python, SQL, Pandas, NumPy, TensorFlow, Git, Jupyter  <br><br>🌱 Currently learning advanced ML techniques and model optimization  <br>💼 Open to Python Developer / Data Analyst / ML roles  <br>
+Hi 👋 I'm Nishi Prantik Mahanta<br><br>🎓 Computer Science Engineering Graduate <br>💻 Python | Machine Learning | Data Analytics  <br><br>I enjoy solving real-world problems using data and building scalable, clean solutions.  <br>During my internship at Aqmenz Automation, I developed a Sales Prediction Model to analyze trends and support business decision-making.  <br>I am also working on an AI-based Interview System focused on intelligent automation.<br><br>  <br><br>🌱 Currently learning advanced ML techniques and model optimization  <br>💼 Open to Python Developer / Data Analyst / ML roles  <br>
 
 
 ## 🌐 Socials:
